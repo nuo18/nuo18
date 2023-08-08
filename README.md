@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently working on a Chat Application<br>I am looking to collaborate on French-Learning Game<br>I am looking for with Godot programming<br>I am currently learning python, java, and godot script<br>Ask me about Game development and design<br>I like automation
 
 
